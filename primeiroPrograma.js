@@ -9,5 +9,3 @@ console.log('>>>', age+2);
 const age2 = age + 5;
 
 console.log('>>>>', age2);
- 
-// JS is case sensitive
