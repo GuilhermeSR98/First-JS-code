@@ -1,8 +1,8 @@
  console.log(`Working with arrays`);
 
  const destinations = new Array(
-     `Salvador`
-     `Bahia`
+     `Salvador`,
+     `Bahia`,
      `Rio de Janeiro`
  ); 
 destinations.push(`Gramado`); // Adding value to array
