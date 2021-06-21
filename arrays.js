@@ -11,14 +11,15 @@
  //Conditionals
 
  const age = 20;
- const accompanied = true;
- let passage = true;
+ const accompanied = false;
+ let passage = false;
 
  if (age >= 18) {
       console.log(`Destiny ${destinations[1]} bought.`);
       destinations.splice(1,1); //removing value from array
       passage = true;
  }
+
  else {
      console.log('Client under age.');
      if(accompanied == true) {

@@ -15,7 +15,7 @@ const accompanied = true;
 let passage = false;
 let cont = 0;
 let destinyExists = false;
-const destiny = '';
+const destiny = 'Gramado';
 
 if (age >= 18) { 
      console.log(`Destiny ${destinations[1]} bought.`);
